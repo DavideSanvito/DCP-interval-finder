@@ -7,6 +7,7 @@ Just start it and select a Digital Cinema Package Composition PlayList (DCP CPL)
 ```sh
 $ python interval_finder.py
 ```
+![Screenshot](img/screen.png?raw=true "Screenshot")
 
 ### Features:
   - XML file manual selection
