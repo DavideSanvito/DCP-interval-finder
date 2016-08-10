@@ -19,4 +19,4 @@ $ python interval_finder.py
 ### Release Notes:
   - DCP-interval-finder does not rely on any online database: reels data is extracted from local XML file and the suggested timestamp is the starting point of the reel nearest to the middle time
   - You need to configure/select the local directory where your TMS stores DCP files after the ingest
-  - This program requires Python Tkinter module
+  - This program requires Python 2.7 with Tkinter module
